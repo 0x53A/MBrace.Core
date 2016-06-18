@@ -23,4 +23,7 @@ nuget MathNet.Numerics ~> 3.7.0
 nuget MathNet.Numerics.FSharp
 nuget MathNet.Numerics.MKL.Win-x64 ~> 1.8.0
 nuget System.Runtime.Loader
+nuget Akka
+nuget Akka.FSharp
+nuget Akka.Cluster pre
 github fsharp/FAKE modules/Octokit/Octokit.fsx
