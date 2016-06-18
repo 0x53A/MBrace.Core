@@ -1,7 +1,6 @@
 REDIRECTS: ON
 NUGET
   remote: https://www.nuget.org/api/v2
-  specs:
     Argu (2.1)
     FAKE (4.28)
     FsCheck (2.4)
@@ -67,6 +66,5 @@ NUGET
       Mono.Cecil (>= 0.9.6.1 < 0.9.7)
 GITHUB
   remote: fsharp/FAKE
-  specs:
-    modules/Octokit/Octokit.fsx (60acb2f035cb39f2bd40a6c58a4de10d915da248)
+    modules/Octokit/Octokit.fsx (1277af1f0a03700040e12bc10c1f964c19de6614)
       Octokit
